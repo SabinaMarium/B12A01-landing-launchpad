@@ -1,3 +1,5 @@
+
+
 nav{ 
 display: flex;
 align-items: center;
@@ -29,7 +31,7 @@ font-weight: 600;
   font-weight: bold;
   font-style: normal;
   text-align: center;
-  fill: #252432;
+  color: #252432;
 }
 
 
@@ -129,4 +131,38 @@ font-family: "Inter", sans-serif;
   font-optical-sizing: 20px;
   text-align: center;
   color: #000000;
+}
+.what{
+font-family: "Raleway", sans-serif;
+  font-size:  42px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: #252432;
+}
+.icon{
+    display:flex
+}
+    .small{
+    width:40px;
+    height:40px;
+    
+
+}
+.skill{
+    padding: 24px 24px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+}
+.review{
+    
+    display: flex;
+justify-content:space-evenly;
+}
+.review-title{
+    font-family: "Inter", sans-serif;
+  font-size: 25px;
+  font-weight:bold;
+  font-style: normal;
+  color:#FFFFFF;
 }
