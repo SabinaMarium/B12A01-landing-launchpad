@@ -166,3 +166,54 @@ justify-content:space-evenly;
   font-style: normal;
   color:#FFFFFF;
 }
+.big-pic{
+    alignment-baseline:central;
+    text-align: center;
+}
+.ready{
+    font-family: "Raleway", sans-serif;
+  font-size:  50px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: #000000;
+
+}
+.get{
+font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+.big-pic{
+    align:center;
+    padding: 20px 71px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+}
+.let{
+    font-family: "Raleway", sans-serif;
+  font-size:  97px;
+  font-weight: bold;
+  font-style: normal;
+  text-align:left;
+  color: #000000;
+}
+.touch{
+ font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 15px 155px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;   
+}
+.form{
+  display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 70px 150px;  
+}
