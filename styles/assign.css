@@ -12,7 +12,7 @@ margin: 0 180px;
     background-image: url(../images/Hero-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
-    background-position: all;
+    background-position: al;
 
 }
 
@@ -25,10 +25,11 @@ font-weight: 600;
 
 .raleway {
   font-family: "Raleway", sans-serif;
-  font-optical-sizing:  65px;
+  font-size:  25px;
   font-weight: bold;
   font-style: normal;
   text-align: center;
+  fill: #252432;
 }
 
 
@@ -42,17 +43,16 @@ font-weight: 600;
   line-height: 200%;
 }
 .sign {
-    
+    font-family: "Raleway", sans-serif;
     background-color: #4E47FF;
     color: white;
     padding: 10px 30px;
     text-align: center;
     border-radius: 5px;
-    text-decoration: ;
     border: none;
 }
 .stay {
-    
+    font-family: "Raleway", sans-serif;
     background-color: #4E47FF;
     color: white;
     padding: 10px 30px;
@@ -61,5 +61,36 @@ font-weight: 600;
     border: none;
 }
 
+.see{
+ font-family: "Raleway", sans-serif;
+  font-size:  22px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: left; 
+  color:#252432 ;  
+}
+.light{
+ font-family: "Raleway", sans-serif;
+  font-size:  12px;
+  font-style: normal;
+  text-align: left top; 
+  fill:50% #252432 ;   
+  font-weight:normal; 
+}
+.launch{
+font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+.align{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 0 180px;
 
+}
 
