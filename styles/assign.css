@@ -217,3 +217,24 @@ align-items: center;
 justify-content: space-between;
 margin: 70px 150px;  
 }
+.footer{
+  display: flex;
+align-items: center;
+justify-content:space-evenly; 
+padding:0px 500px ;
+
+}
+.text{
+ font-family: "Inter", sans-serif;
+ text-align: center;
+  font-size: 100px;
+  font-weight:black;
+  font-style: normal;
+  color: #4E47FF;
+  
+}
+.last{
+    text-align: center;
+    justify-content:space-evenly;
+    align-items: center;
+}
