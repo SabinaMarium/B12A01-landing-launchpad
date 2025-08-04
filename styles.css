@@ -1,0 +1,243 @@
+
+*{
+  max-width: 1280px;
+  margin: auto;
+}
+nav{ 
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 0 180px;
+
+}
+
+
+
+.Header {
+    background-image: url(../images/Hero-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: al;
+
+}
+
+h3{
+ font-size:xx-large ;
+font-weight: 600;
+ 
+}
+
+
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-size:  25px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: #252432;
+}
+
+
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: 34px;
+  font-weight:black;
+  font-style: normal;
+  color: #4E47FF;
+  line-height: 200%;
+}
+.sign {
+    font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+.stay {
+    font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+
+.see{
+ font-family: "Raleway", sans-serif;
+  font-size:  22px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: left; 
+  color:#252432 ;  
+}
+.light{
+ font-family: "Raleway", sans-serif;
+  font-size:  12px;
+  font-style: normal;
+  text-align: left top; 
+  fill:50% #252432 ;   
+  font-weight:normal; 
+}
+.launch{
+font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+.align{
+    align-self: center;
+    display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 0 180px;
+
+}
+.user{
+  font-family: "Raleway", sans-serif;
+  font-size:  38px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  fill: #252432;  
+  text-align: center;
+}
+.whole{
+    alignment-baseline:central;
+  margin: 5px 150px; 
+  padding: 50px 141px ; 
+  background-color:#479dff80 ;
+  border-radius: 24px;
+}
+.center{
+    display: flex;
+align-items: center;
+justify-content: space-between;  
+text-align: center; 
+}
+.letter{
+ font-family: "Inter", sans-serif;
+  font-size:80px;
+  font-weight:bold;
+  font-style: normal;
+  color: #4E47FF;   
+}
+.small{
+    
+font-family: "Inter", sans-serif;
+  font-optical-sizing: 20px;
+  text-align: center;
+  color: #000000;
+}
+.what{
+font-family: "Raleway", sans-serif;
+  font-size:  42px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: #252432;
+}
+.icon{
+    display:flex
+}
+    .small{
+    width:40px;
+    height:40px;
+    
+
+}
+.skill{
+    padding: 24px 24px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+}
+.review{
+    
+    display: flex;
+justify-content:space-evenly;
+}
+.review-title{
+    font-family: "Inter", sans-serif;
+  font-size: 25px;
+  font-weight:bold;
+  font-style: normal;
+  color:#FFFFFF;
+}
+.big-pic{
+    alignment-baseline:central;
+    text-align: center;
+}
+.ready{
+    font-family: "Raleway", sans-serif;
+  font-size:  50px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: #000000;
+
+}
+.get{
+font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+.big-pic{
+    align:center;
+    padding: 20px 71px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+}
+.let{
+    font-family: "Raleway", sans-serif;
+  font-size:  97px;
+  font-weight: bold;
+  font-style: normal;
+  text-align:left;
+  color: #000000;
+}
+.touch{
+ font-family: "Raleway", sans-serif;
+    background-color: #4E47FF;
+    color: white;
+    padding: 15px 155px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;   
+}
+.form{
+  display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 70px 150px;  
+}
+.footer{
+  display: flex;
+align-items: center;
+justify-content:space-evenly; 
+padding:0px 500px ;
+
+}
+.text{
+ font-family: "Inter", sans-serif;
+ text-align: center;
+  font-size: 100px;
+  font-weight:black;
+  font-style: normal;
+  color: #4E47FF;
+  
+}
+.last{
+    text-align: center;
+    justify-content:space-evenly;
+    align-items: center;
+}
